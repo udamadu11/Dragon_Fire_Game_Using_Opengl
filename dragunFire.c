@@ -17,7 +17,7 @@ int attempt=8;
 char instruction[]="Press N for New Game , Q to Quit";
 char ins[] ="Press P-pause S-Shoot Esc-Back";
 char attempts[]="Attempt left";
-
+//
 void gameover(){
 
 	//Game Over
